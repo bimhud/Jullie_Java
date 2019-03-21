@@ -1,2 +1,4 @@
-public static void main(){
+class helloworld(){
+  public static void main(){
+  }
 }
